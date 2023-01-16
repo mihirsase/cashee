@@ -1,3 +1,3 @@
 # cashee
 
-![](https://github.com/mihirsase/cashee/blob/main/demo.gif)
+![](https://drive.google.com/file/d/1VRhWRMngdLGZeKri3fx8s-opdzYIPfFK/view?usp=share_link)
